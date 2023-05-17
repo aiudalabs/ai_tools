@@ -2,8 +2,12 @@
 
 Curated list of AI tools, books, algorithms and documentation in general
 
-## Art & Creativity
+## Your own data
+- [Chatpdf](https://www.chatpdf.com/) -> Chat with any PDF
 
+## Art & Creativity
+- [Fliki](https://fliki.ai/) -> Turn text into videos with AI voices
+- [Runwayml](https://runwayml.com/) -> Runway is a new kind of creative suite. One where AI is a collaborator and anything you can imagine can be created
 - [AI Magic Tools (by runway)](https://runwayml.com/ai-magic-tools/) -> creativity tools to edit and generate content
 - [AvatarAI](https://avatarai.me/) -> create photorealistic AI avatars
 - [ClipDrop](https://clipdrop.co/) -> apps, plugins, and resources for creators, powered by AI
@@ -22,7 +26,6 @@ Curated list of AI tools, books, algorithms and documentation in general
 - [ChatGPT (by OpenAI)](https://chat.openai.com/) -> conversational AI system powered by large language models
 - [DoNotPay](https://donotpay.com/) -> the world's first robot lawyer
 - [Replika](https://replika.ai/) -> an AI companion
-
 
 ## Design
 - [Interior AI](https://interiorai.com/) -> interior design mockups and virtual staging
@@ -55,6 +58,8 @@ Curated list of AI tools, books, algorithms and documentation in general
 - [Suppress.js](https://github.com/velocitatem/suppress) -> Building or augmenting backend with AI
 - [Dystr](https://dystr.com) -> AI powered analysis / cloud runtime
 - [GitPoet](https://www.gitpoet.dev/) -> Git commit message generator (based on your changes) with a VSCode extension
+- [Durable](https://durable.co/) -> Build websites and create Facebook post, Google ad and e-mails
+- [Kadoa](https://www.kadoa.com/) -> Scrape Websites Easily With AI
  
 
 ## Gaming, 3D, Motion
@@ -71,6 +76,7 @@ Curated list of AI tools, books, algorithms and documentation in general
 - [Magic Summaries by Sybill](https://www.sybill.ai/magic-summary) -> create automatic, accurate sales call summaries using AI
 - [Peech](https://www.peech-ai.com/) -> video content creator for content marketing
 - [Headlines](https://headlines.sharethrough.com/) -> Generating headlines for content marketing
+- [Postwise](https://postwise.ai/) -> Create Tweets
 
 
 ## Productivity
