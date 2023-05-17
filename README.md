@@ -2,6 +2,8 @@
 
 Curated list of AI tools, books, algorithms and documentation in general
 
+- [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) -> An experimental open-source attempt to make GPT-4 fully autonomous.
+
 ## Your own data
 - [Chatpdf](https://www.chatpdf.com/) -> Chat with any PDF
 
